@@ -74,3 +74,7 @@ body {
   span.Sitio {
     color: blue;
   }
+  
+  address {
+    font-size: 75%;
+}
